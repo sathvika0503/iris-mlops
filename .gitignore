@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+models/*
+!models/.gitkeep
+mlruns/*
+!mlruns/.gitkeep
